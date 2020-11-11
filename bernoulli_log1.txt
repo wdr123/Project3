@@ -1,0 +1,60 @@
+Function 1 's log
+N:10 ep:0.4856 frac_missed:0.02900
+N:100 ep:0.5000 frac_missed:0.00000
+N:1000 ep:0.5000 frac_missed:0.00000
+N:10000 ep:0.5000 frac_missed:0.00000
+N:100000 ep:0.5000 frac_missed:0.00000
+Function 2 's log
+N:10 ep:0.4853 frac_missed:0.02954
+N:100 ep:0.5000 frac_missed:0.00000
+N:1000 ep:0.5000 frac_missed:0.00000
+N:10000 ep:0.5000 frac_missed:0.00000
+N:100000 ep:0.5000 frac_missed:0.00000
+Function 3 's log
+N:10 ep:0.2627 frac_missed:0.16190
+N:100 ep:0.0893 frac_missed:0.05178
+N:1000 ep:0.0284 frac_missed:0.04912
+N:10000 ep:0.0090 frac_missed:0.04802
+N:100000 ep:0.0028 frac_missed:0.05068
+Function 4 's log
+N:10 ep:0.4700 frac_missed:0.00142
+N:100 ep:0.4700 frac_missed:0.00000
+N:1000 ep:0.4700 frac_missed:0.00000
+N:10000 ep:0.4700 frac_missed:0.00000
+N:100000 ep:0.4700 frac_missed:0.00000
+Function 5 's log
+N:10 ep:0.4497 frac_missed:0.10066
+N:100 ep:0.4490 frac_missed:0.10198
+N:1000 ep:0.4487 frac_missed:0.10264
+N:10000 ep:0.4501 frac_missed:0.09982
+N:100000 ep:0.4504 frac_missed:0.09918
+Function 6 's log
+N:10 ep:0.5000 frac_missed:0.00014
+N:100 ep:0.5000 frac_missed:0.00000
+N:1000 ep:0.5000 frac_missed:0.00000
+N:10000 ep:0.5000 frac_missed:0.00000
+N:100000 ep:0.5000 frac_missed:0.00000
+Function 7 's log
+N:10 ep:0.2633 frac_missed:0.07706
+N:100 ep:0.0833 frac_missed:0.06196
+N:1000 ep:0.0263 frac_missed:0.06940
+N:10000 ep:0.0083 frac_missed:0.06770
+N:100000 ep:0.0026 frac_missed:0.06894
+Function 8 's log
+N:10 ep:0.4251 frac_missed:0.14996
+N:100 ep:0.5000 frac_missed:0.00002
+N:1000 ep:0.5000 frac_missed:0.00000
+N:10000 ep:0.5000 frac_missed:0.00000
+N:100000 ep:0.5000 frac_missed:0.00000
+Function 9 's log
+N:10 ep:0.3461 frac_missed:0.03732
+N:100 ep:0.1174 frac_missed:0.01278
+N:1000 ep:0.0373 frac_missed:0.01056
+N:10000 ep:0.0118 frac_missed:0.00988
+N:100000 ep:0.0037 frac_missed:0.00960
+Function 10 's log
+N:10 ep:0.3162 frac_missed:0.01086
+N:100 ep:0.1000 frac_missed:0.02866
+N:1000 ep:0.0316 frac_missed:0.03052
+N:10000 ep:0.0100 frac_missed:0.03126
+N:100000 ep:0.0032 frac_missed:0.03002
