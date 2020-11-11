@@ -1,70 +1,50 @@
 Function 1 's log
-N:10 ep:0.4861 frac_missed:0.02780
+N:10 ep:0.4864 frac_missed:0.02720
 N:100 ep:0.5000 frac_missed:0.00000
 N:1000 ep:0.5000 frac_missed:0.00000
 N:10000 ep:0.5000 frac_missed:0.00000
-N:100000 ep:0.5000 frac_missed:0.00000
-
 Function 2 's log
-N:10 ep:0.4851 frac_missed:0.02970
+N:10 ep:0.4844 frac_missed:0.03110
 N:100 ep:0.5000 frac_missed:0.00000
 N:1000 ep:0.5000 frac_missed:0.00000
 N:10000 ep:0.5000 frac_missed:0.00000
-N:100000 ep:0.5000 frac_missed:0.00000
-
 Function 3 's log
-N:10 ep:0.2620 frac_missed:0.16540
-N:100 ep:0.0893 frac_missed:0.04760
-N:1000 ep:0.0284 frac_missed:0.04820
-N:10000 ep:0.0090 frac_missed:0.05070
-N:100000 ep:0.0028 frac_missed:0.04980
-
+N:10 ep:0.2620 frac_missed:0.16160
+N:100 ep:0.0893 frac_missed:0.04840
+N:1000 ep:0.0284 frac_missed:0.05150
+N:10000 ep:0.0090 frac_missed:0.05280
 Function 4 's log
-N:10 ep:0.4700 frac_missed:0.00130
+N:10 ep:0.4700 frac_missed:0.00000
 N:100 ep:0.4700 frac_missed:0.00000
 N:1000 ep:0.4700 frac_missed:0.00000
 N:10000 ep:0.4700 frac_missed:0.00000
-N:100000 ep:0.4700 frac_missed:0.00000
-
 Function 5 's log
-N:10 ep:0.4460 frac_missed:0.10830
-N:100 ep:0.4497 frac_missed:0.10050
-N:1000 ep:0.4520 frac_missed:0.09600
-N:10000 ep:0.4480 frac_missed:0.10400
-N:100000 ep:0.4497 frac_missed:0.10060
-
+N:10 ep:0.4512 frac_missed:0.07110
+N:100 ep:0.4499 frac_missed:0.09240
+N:1000 ep:0.4490 frac_missed:0.09820
+N:10000 ep:0.4507 frac_missed:0.09790
 Function 6 's log
-N:10 ep:0.5000 frac_missed:0.00030
+N:10 ep:0.5000 frac_missed:0.00000
 N:100 ep:0.5000 frac_missed:0.00000
 N:1000 ep:0.5000 frac_missed:0.00000
 N:10000 ep:0.5000 frac_missed:0.00000
-N:100000 ep:0.5000 frac_missed:0.00000
-
 Function 7 's log
-N:10 ep:0.2633 frac_missed:0.07600
-N:100 ep:0.0833 frac_missed:0.05700
-N:1000 ep:0.0263 frac_missed:0.06620
-N:10000 ep:0.0083 frac_missed:0.07120
-N:100000 ep:0.0026 frac_missed:0.06920
-
+N:10 ep:0.2633 frac_missed:0.07360
+N:100 ep:0.0833 frac_missed:0.06570
+N:1000 ep:0.0263 frac_missed:0.06530
+N:10000 ep:0.0083 frac_missed:0.06780
 Function 8 's log
-N:10 ep:0.4273 frac_missed:0.14580
-N:100 ep:0.4999 frac_missed:0.00010
+N:10 ep:0.4271 frac_missed:0.14570
+N:100 ep:0.5000 frac_missed:0.00000
 N:1000 ep:0.5000 frac_missed:0.00000
 N:10000 ep:0.5000 frac_missed:0.00000
-N:100000 ep:0.5000 frac_missed:0.00000
-
 Function 9 's log
-N:10 ep:0.3458 frac_missed:0.03830
-N:100 ep:0.1173 frac_missed:0.01390
-N:1000 ep:0.0373 frac_missed:0.01050
-N:10000 ep:0.0118 frac_missed:0.00960
-N:100000 ep:0.0037 frac_missed:0.00920
-
+N:10 ep:0.3469 frac_missed:0.03640
+N:100 ep:0.1174 frac_missed:0.01310
+N:1000 ep:0.0373 frac_missed:0.01020
+N:10000 ep:0.0118 frac_missed:0.01010
 Function 10 's log
-N:10 ep:0.3162 frac_missed:0.00980
-N:100 ep:0.1000 frac_missed:0.02990
-N:1000 ep:0.0316 frac_missed:0.02750
-N:10000 ep:0.0100 frac_missed:0.03240
-N:100000 ep:0.0032 frac_missed:0.03120
-
+N:10 ep:0.3162 frac_missed:0.01080
+N:100 ep:0.1000 frac_missed:0.02960
+N:1000 ep:0.0316 frac_missed:0.02970
+N:10000 ep:0.0100 frac_missed:0.03100
