@@ -1,4 +1,4 @@
-true_mean = 0.5;
+true_mean = 0;
 n_sample = 10000;
 fileID = fopen('norm_log.txt','w+');
 for i = 1:10
@@ -7,7 +7,7 @@ for i = 1:10
         hits = 0;
         mean_ep = 0;
         for reps = 1:n_sample
-            X = sample_normal(N,0,1);
+            X = sample_normal(N,1,0);
             [A,B] = ci(X,i);
             ep = (B-A)/2;
             mean_ep = mean_ep + ep/n_sample;

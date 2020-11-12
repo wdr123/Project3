@@ -1,10 +1,10 @@
 valid:
-3 7 9 10
+1 2 3 7 8 9 10
 
 
 confidence level:
-0.05 0.3 0.01 0.25
+0.05 0.05 0.05 0.1 0.25 0.01 0.05
 
 
 Asymptotical:
-yes no yes no
+No No Yes No No Yes No
